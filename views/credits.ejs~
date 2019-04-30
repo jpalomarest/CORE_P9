@@ -1,0 +1,13 @@
+<h1>Credits</h1>
+<h3>Author:</h3>
+<p>Javier Palomares Torrecilla</p>
+<img src="/images/avatar.png" width="200"/>
+<p> </p>
+<a href="CV.pdf">Click here to see the CV</a>
+
+<div>
+
+    <img src="/images/UPM.jpg" width="8%" padding="2%"/>
+    <img src="/images/nodejs.png" width="8%"/>
+    <img src="/images/npm.png" width="8%"/>
+</div>
